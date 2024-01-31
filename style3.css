@@ -1,0 +1,39 @@
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:80px;
+    text-align:center;
+    margin:5px 2px;
+    margin-top:50px;
+    border-radius:30%;
+    text-decoration:none;
+}
+.fa:hover{
+    opacity:0.5;
+}
+
+.fa-instagram{
+    background-color:#B82F5E;
+    color:white;
+}
+.fa-linkedin{
+    background-color:#1D4C94 ;
+    color:white;
+}
+.fa-Whatsapp{
+    background-color:#2C7330 ;
+    color:white;
+}
+.fa-Telegram{
+    background-color:#2789D8 ;
+    color:white;
+}
+.fa-Twitter{
+    background-color:#2496A2;
+    color:white;
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/top-view-blue-monday-concept-composition-with-telephone_23-2149139103.jpg?w=996&t=st=1706589539~exp=1706590139~hmac=4a61199257865b56f2431839f14b2e2efcc823f64f775a4bf41f982e56afbbee");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

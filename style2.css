@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/white-technology-background_23-2148403783.jpg?w=996&t=st=1706590292~exp=1706590892~hmac=59321b1e88c096b2873ce300d9f04627769d15c77336f1a2da3e6b86a986c7cb");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service{
+    margin-top:100px;
+    margin-left: 100px;
+}
+img{
+    width:150px;
+    height:150px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+#list{
+    font-size: 30px;
+}

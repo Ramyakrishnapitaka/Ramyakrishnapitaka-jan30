@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://www.shutterstock.com/shutterstock/photos/110802230/display_1500/stock-vector-illustration-of-airplane-flying-over-sketch-of-famous-monument-110802230.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    margin-top:100px;
+}
